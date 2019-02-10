@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Julian",
+        "description":"Soy el mejor en el vecindario"
+    },
+    { 
+        "name":"John Doe",
+        "description":"Soy el profesor generico de todas las apps"
+    },
+    {
+        
+        "name":"Jane Doe",
+        "description":"La esposa del profesor generico"
+    },
+    {
+        
+        "name":"John Doe II",
+        "description":"hijo del profesor generico de todas las apps"
+    }
+]

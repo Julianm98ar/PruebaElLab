@@ -1,0 +1,91 @@
+
+nav{
+	background: linear-gradient(to right, #0056FB , #03C2F9);
+}
+
+footer{
+	background: linear-gradient(to right, #F54104 , #FF0012);
+}
+
+.btn-small, .btn-large, .btn{
+	background-image:  linear-gradient(to right, #F54104, #FF0012);
+}
+
+.btn-layout {
+	flex: 1 1 auto;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	/* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+}
+
+.btn-layout:hover {
+	background-position: right center; 
+}
+
+.btn-1 {
+	background-image: linear-gradient(to right, #F54104 0%, #FF0012 51%, #FF0012 100%);
+}
+
+.input-field label {
+	color: black;
+}
+
+.input-field input:focus + label {
+	color:  black !important;
+}
+
+.input-field input:focus {
+	border-bottom: 1px solid black !important;
+	box-shadow: 0 1px 0 0 black !important
+}
+
+.tabs .tab a{
+    color:#01D3F6;
+} 
+
+.tabs .tab a:hover {
+    background-color:#03C2F9;
+    color:#FFF;
+} 
+
+.tabs .tab a.active {
+    background-color:#03C2F9;
+    color:#FFF;
+} 
+
+.tabs .indicator {
+    background-color:#01D3F6;
+}
+
+#background{
+	height: 1080px;
+	background: linear-gradient(to right, #0056FB, #03C2F9);
+}
+
+#photo-user{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background-image: red;
+}
+
+#img-banner{
+	padding: 0;
+}
+
+#text-banner{
+	margin-left: 30px;
+}
+
+#title-banner{
+}
+
+body{
+
+}
